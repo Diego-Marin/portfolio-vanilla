@@ -1,6 +1,5 @@
 # Archivos y directorios generados por la construcción de Angular
 dist/
-node_modules/
 
 # Archivos temporales y de configuración del IDE
 .DS_Store
